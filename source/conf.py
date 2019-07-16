@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'moonbadhe2019'
+project = u'moonbadge2019'
 copyright = u'2018, Alex Camilo'
 author = u'Alex Camilo'
 
